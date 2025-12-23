@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# Model file (too large for GitHub - 25MB limit is 100MB)
+# Uncomment the line below if your model file is larger than 100MB
+# grade_predictor_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
