@@ -1433,6 +1433,6 @@ if predict_clicked:
 st.markdown("""
 <div class="footer">
     <span class="footer-logo">AI Grade Predictor</span> | Air University | 
-    Built with ❤️ using Streamlit & Machine Learning
+    Built using Streamlit & Machine Learning
 </div>
 """, unsafe_allow_html=True)
